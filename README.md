@@ -1,5 +1,4 @@
-<p align="center">![](https://komarev.com/ghpvc/?username=DlNOS&label=★&color=5C6C5D)</p>
-<p align="center"><I>IT RESET 😭</I></p>
+<![](https://komarev.com/ghpvc/?username=DlNOS&label=✿&color=FEBDD1)</p>
 <br>
 <br>
 <p align="center">
