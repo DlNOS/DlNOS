@@ -1,4 +1,6 @@
-<p align="center">![](https://komarev.com/ghpvc/?username=DlNOS&label=✿&color=304B52)</p>
+<p align="center">!
+  
+  [](https://komarev.com/ghpvc/?username=DlNOS&label=✿&color=304B52)</p>
 
 <p align="center"> <br>
 <br>
