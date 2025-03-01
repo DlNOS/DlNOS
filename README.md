@@ -18,3 +18,6 @@
 <p align="center">
 <tt>↻ int ! i love making new friends ^_^ ꒰ <i>offtab or afk a lot of the time , w2i mostly ~</i> ↺</tt>
 <br> 
+<br>
+<br>
+<p align="center"> ‧❀༉‧
