@@ -1,7 +1,5 @@
-<p align="center">
+　<p align="center">![](https://komarev.com/ghpvc/?username=DlNOS&label=✿&color=FFBCD1)</p>
   
-  ![](https://komarev.com/ghpvc/?username=DlNOS&label=✿&color=FFBCD1)</p>
-
 <p align="center"> <br>
 <br>
 <p align="center">
