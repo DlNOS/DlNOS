@@ -9,9 +9,7 @@
 <p align="center">
 <img src="E1583748-06CF-4DAB-B61B-1EB3683E1B4B-min.png">
 <p align="center">
-<u><i>" どうして…どうして僕を安らかに死なせてくれないの？" </i></u>
 <i>" why.. why won't you guys just let me die in peace? "</i> 
-
 
 <p align="center">
 <tt>she/they : minor : OCD ☆</tt> 
