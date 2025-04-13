@@ -5,7 +5,6 @@
 <p align="center">
 <i><b>dino!!</b></i>
 
-
 <p align="center">
 <img src="E1583748-06CF-4DAB-B61B-1EB3683E1B4B-min.png">
 <p align="center">
