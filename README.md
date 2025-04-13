@@ -1,4 +1,4 @@
-　<p align="center">![](https://komarev.com/ghpvc/?username=DlNOS&label=✿&color=FFBCD1)</p>
+　<p align="center">![](https://komarev.com/ghpvc/?username=DlNOS&label=⚰️&color=b49082)</p>
   
 <p align="center"> <br>
 <br>
@@ -7,9 +7,10 @@
 
 
 <p align="center">
-<img src="Screenshot_2025-02-27_22.47.57-removebg-preview_optimized.png" alt="Cherry">
+<img src="E1583748-06CF-4DAB-B61B-1EB3683E1B4B-min.png">
 <p align="center">
-<i>"stand up and teach that idiot a lesson."</i> 
+<u><i>" どうして…どうして僕を安らかに死なせてくれないの？" </i></u>
+<i>" why.. why won't you guys just let me die in peace? "</i> 
 
 
 <p align="center">
@@ -21,4 +22,4 @@
 <br> 
 <br>
 <br>
-<p align="center"> ‧❀༉‧
+<p align="center"> ‧⚔︎‧
