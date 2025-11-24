@@ -1,4 +1,4 @@
-　<p align="center">![](https://komarev.com/ghpvc/?username=DlNOS&label=⚰️&color=b49082)</p>
+　<p align="center">![](https://komarev.com/ghpvc/?username=DlNOS&label=❄️&color=5C2039)</p>
   
 <p align="center"> <br>
 <br>
@@ -6,9 +6,9 @@
 <i><b>dino!!</b></i>
 
 <p align="center">
-<img src="E1583748-06CF-4DAB-B61B-1EB3683E1B4B-min.png">
+<img src="IMG_7912.gif">
 <p align="center">
-<i>" why.. why won't you guys just let me die in peace? "</i> 
+<i>" the white has been dyed red . "</i> 
 
 <p align="center">
 <tt>she/they : minor : OCD ☆</tt> 
