@@ -11,7 +11,7 @@
 <i>" the white has been dyed red . "</i> 
 
 <p align="center">
-<tt>she/they : taurus : OCD ☆</tt> 
+<tt>she / they : taurus : OCD ☆</tt> 
 <p align="center">
 <tt>♫︎ <i><b>dino</b></i>/<i>kae</i>/zoya</tt>
 <p align="center">
