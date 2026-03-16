@@ -11,9 +11,9 @@
 <i>" the white has been dyed red . "</i> 
 
 <p align="center">
-<tt>she/they : taurus : OCD ☆</tt> 
+<tt>she/they : taurus : minor : OCD ☆</tt> 
 <p align="center">
-<tt>♫︎ <i><b>dino</b></i> ♫︎</tt>
+<tt>♫︎ <i><b>?!</b></i> ♫︎</tt>
 <p align="center">
 <tt>↻ int ! i love making new friends ^_^ ꒰ <i>offtab or afk a lot of the time , w2i mostly ~</i> ↺</tt>
 <br> 
