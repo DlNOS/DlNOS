@@ -22,7 +22,5 @@
   </a>
 </p>
 
-<br> 
 <br>
-<br>
-<p align="center"> ‧⚔︎‧
+<p align="center"> ‧♫︎‧
