@@ -1,6 +1,5 @@
 　<p align="center">![](https://komarev.com/ghpvc/?username=DlNOS&label=❄️&color=A5324F)</p>
 <p align="center"> <br>
-<br>
 <p align="center">
 <i><b>dino!!</b></i>
 
