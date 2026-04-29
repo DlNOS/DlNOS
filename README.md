@@ -11,11 +11,17 @@
 <i>" the white has been dyed red . "</i> 
 
 <p align="center">
-<tt>she/they : taurus : minor : OCD ☆</tt> 
+  <a href="https://dlnos.atabook.org/">
+    <img src="https://img.shields.io/badge/ata-abbad3?style=for-the-badge">
+  </a>
+</p>
+
 <p align="center">
-<tt>♫︎ <i><b>?!</b></i> ♫︎</tt>
-<p align="center">
-<tt>↻ int ! i love making new friends ^_^ ꒰ <i>offtab or afk a lot of the time , w2i mostly ~</i> ↺</tt>
+  <a href="https://rentry.co/dlnos">
+    <img src="https://img.shields.io/badge/rentry-abbad3?style=for-the-badge">
+  </a>
+</p>
+
 <br> 
 <br>
 <br>
