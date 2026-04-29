@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://rentry.co/dlnos">
-    <img src="https://img.shields.io/badge/rentry-abbad3?style=for-the-badge">
+    <img src="https://img.shields.io/badge/rentry-A5324F?style=for-the-badge">
   </a>
 </p>
 
