@@ -11,6 +11,7 @@
 <p align="center">
   <a href="https://dlnos.atabook.org/">ᵃᵗᵃ</a>&nbsp;&nbsp;&nbsp;
   <a href="https://dlnos.straw.page/">ˢᵗʳᵃʷ</a>&nbsp;&nbsp;&nbsp;
-<p align="center">
+  <a href="https://rentry.co/dlnos">ʳᵉⁿᵗʳʸ</a>
+</p>
 
 <p align="center"> ‧♫︎‧
