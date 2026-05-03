@@ -11,6 +11,6 @@
 <p align="center">
   <a href="https://dlnos.atabook.org/">ᵃᵗᵃ</a>&nbsp;&nbsp;&nbsp;
   <a href="https://dlnos.straw.page/">ˢᵗʳᵃʷ</a>&nbsp;&nbsp;&nbsp;
-</p>
+<p align="center">
 
 <p align="center"> ‧♫︎‧
