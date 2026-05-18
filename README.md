@@ -1,10 +1,18 @@
-
-
 <p align="center">
-  <a href="https://dlnos.atabook.org/">𝘢𝘵𝘢</a>&nbsp;&nbsp;&nbsp;
-  <a href="https://dlnos.straw.page/">𝘴𝘵𝘳𝘢𝘸</a>&nbsp;&nbsp;&nbsp;
-  <a href="https://rentry.co/dlnos">𝘳𝘦𝘯𝘵𝘳𝘺</a>
-</p><p align="center"> <br>
+  <a href="https://dlnos.atabook.org/">
+    <img src="IMG_8527.gif" alt="ata">
+    <a href="https://dlnos.straw.page/">
+    <img src="IMG_8526.gif" alt="straw">
+      <a href="https://rentry.co/dlnos">
+    <img src="IMG_8528.gif" alt="rentry">
+  </a>
+</p>
+  </a>
+</p>
+  </a>
+</p>
+
+
 <p align="center">
 
 <p align="center">
